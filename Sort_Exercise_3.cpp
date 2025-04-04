@@ -5,7 +5,8 @@ const int MAXN = 1e5;
 //edited by Huy abcasdklasjfjlaaj slkjglsajflkasjlfka,dskgjsa;dfjlkajisad,mfnsadlkflksahflkslk
 // sdjaflkasjlkfjsfjsafknaslfasjf
 // Chào mừng thế giới
-
+// askldjlaskjdlkasjdlkjaslkd hàhlkasjdasjlkdhaskdhlasjdlas
+// abc
 void printArray(int a[], int n){
     if(n <= 0){
         cout << "[]\n";
